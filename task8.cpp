@@ -4,7 +4,6 @@ int time(int x, string colors[]);
 main()
 {
     int x, result;
-    ;
     cout << "Enter the size of array: ";
     cin >> x;
     string colors[x];
