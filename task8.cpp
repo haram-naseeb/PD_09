@@ -5,7 +5,7 @@ main()
 {
     int x, result;
     ;
-    cout << "Enter the siza of array: ";
+    cout << "Enter the size of array: ";
     cin >> x;
     string colors[x];
     cout << "Enter Colours, one per line: " << endl;
